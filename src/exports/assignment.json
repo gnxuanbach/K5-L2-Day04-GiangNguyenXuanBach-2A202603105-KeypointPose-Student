@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603105",
+ "ten": "GiangNguyenXuanBach",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "xuanbach2410",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000175703.jpg",
+  "000000308257.jpg",
+  "000000343057.jpg",
+  "000000349521.jpg",
+  "000000147780.jpg",
+  "000000220045.jpg",
+  "000000360811.jpg",
+  "000000297227.jpg",
+  "000000351176.jpg",
+  "000000106051.jpg",
+  "000000413160.jpg"
+ ],
+ "faces": [
+  "face_125051.jpg",
+  "face_257657.jpg",
+  "face_421231.jpg",
+  "face_415073.jpg",
+  "face_449454.jpg",
+  "face_178208.jpg",
+  "face_219250.jpg",
+  "face_175798.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-GiangNguyenXuanBach"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-GiangNguyenXuanBach"
+  },
+  "persons-extra": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-extra-GiangNguyenXuanBach"
+  },
+  "faces-extra": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-extra-GiangNguyenXuanBach"
+  }
+ },
+ "persons_extra": [
+  "000000337458.jpg",
+  "000000357549.jpg",
+  "000000373426.jpg"
+ ],
+ "faces_extra": [
+  "face_280788.jpg",
+  "face_300200.jpg",
+  "face_344941.jpg",
+  "face_379585.jpg",
+  "face_45276.jpg"
+ ]
+}
